@@ -1,0 +1,28 @@
+{
+  "templates": {
+    "task_start": {
+      "title": "Time to start: {title}",
+      "body": "Your task \"{title}\" starts now ({time})."
+    },
+    "task_due": {
+      "title": "{title} is due",
+      "body": "Your task \"{title}\" is due at {time}."
+    },
+    "habit_start": {
+      "title": "Habit time: {title}",
+      "body": "Time to work on your habit \"{title}\" ({time})."
+    },
+    "habit_due": {
+      "title": "{title} due soon",
+      "body": "Your habit \"{title}\" is due at {time}."
+    },
+    "routine_task_start": {
+      "title": "Routine: {title}",
+      "body": "Your routine task \"{title}\" starts at {time}."
+    },
+    "routine_task_due": {
+      "title": "Routine task due: {title}",
+      "body": "\"{title}\" is due at {time}."
+    }
+  }
+}

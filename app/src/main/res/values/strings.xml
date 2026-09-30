@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chitch</string>
+    <string name="chitch_widget_description">Shows today\'s habits and upcoming tasks</string>
+</resources>
